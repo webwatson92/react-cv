@@ -1,0 +1,1 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Josefin+Sans:wght@100&family=Nova+Round&display=swap');
